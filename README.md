@@ -9,8 +9,6 @@ This project focuses on cleaning and preparing the Ames Housing dataset for furt
 - Python
 - Pandas
 - NumPy
-- Seaborn
-- Matplotlib
 - Google Colab
 
 ## Project Steps
